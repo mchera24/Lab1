@@ -1,6 +1,6 @@
 # Welcome To My User Page!
 
-![profile-image](images/profile.jpg)
+![profile-image](images/profile.jpg =400x400)
 
 ## **About Me**
 
