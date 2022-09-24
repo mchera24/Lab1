@@ -1,6 +1,6 @@
 # Welcome To My User Page!
 
-![profile-image](images/profile.jpg){:height="36px" width="36px"}
+![profile-image](images/profile.jpg){:height="20px" width="20px"}
 
 ## **About Me**
 
