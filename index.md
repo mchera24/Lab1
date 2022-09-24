@@ -6,7 +6,7 @@
 
 ###### 
 
-[## **Favorite Programming Languages**](README.md)
+## [**Favorite Programming Languages**](README.md)
 
 - ***Python***
 - ***C++***
@@ -45,4 +45,4 @@ class Hello
 - [ ] Work with my team to make an awesome piece of software
 
 
-[readme](README.md)
+[Check out my readme here](README.md)
