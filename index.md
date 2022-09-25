@@ -52,6 +52,6 @@ class Hello
 
 ## **My Dog Leo**
 
-[leo1](images/leo1.jpg)
+![leo1](images/leo1.jpg)
 
-[leo2](images/leo2.jpg)
+![leo2](images/leo2.jpg)
