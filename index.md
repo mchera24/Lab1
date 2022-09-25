@@ -19,9 +19,9 @@ I'm Mandeep Chera, a senior computer science major at UCSD. My hobbies include: 
 
 ## **Top Quotes To Live By**
 
-1. > Once you know what failure feels like, determination chases success. -Kobe Bryant
+1. > "Once you know what failure feels like, determination chases success." -Kobe Bryant
 
-2. > Power is only given to those who are prepared to lower themselves to pick it up. -Ragnar Lothbrok (Vikings)
+2. > "Power is only given to those who are prepared to lower themselves to pick it up." -Ragnar Lothbrok (Vikings)
 
 ## **Simple Name Output Program in Java**
 
