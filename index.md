@@ -54,4 +54,4 @@ class Hello
 
 <img src=images/leo1.jpg width=500 height=500 align=center>
 
-<img src=images/leo2.jpg width=500 height=500 align=center>
+<img src=images/leo2.jpg width=500 height=600 align=center>
